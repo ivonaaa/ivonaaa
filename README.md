@@ -16,3 +16,6 @@
 </div>
 
 ###
+
+<h2 align="left"> Link to gitlab: </h2>
+<a href="https://gitlab.com/ivona.perko" align="left">https://gitlab.com/ivona.perko</p>
