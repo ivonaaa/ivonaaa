@@ -38,7 +38,7 @@
   <section>
     <h2>🌐 Connect with Me</h2>
     <ul>
-      <li>💼 LinkedIn: <a href="[https://linkedin.com/in/ivona-perko](https://www.linkedin.com/in/ivona-perko-973442296/)">Ivona Perko</a></li>
+      <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/ivona-perko-973442296/">Ivona Perko</a></li>
       <li>🔗 GitLab: <a href="https://gitlab.com/ivona.perko">ivona.perko</a></li>
     </ul>
   </section>
