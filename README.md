@@ -9,7 +9,7 @@
   <!-- Introduction -->
   <section>
     <h1>👋 Hello, I'm Ivona!</h1>
-    <p>I'm a passionate software engineering student at Ferit, enthusiastic about crafting digital solutions to real-world problems.</p>
+    <p>I'm a graduate software engineering student at Ferit.</p>
   </section>
 
   <!-- My Toolbox -->
