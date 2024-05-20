@@ -24,6 +24,16 @@
     </div>
   </section>
 
+  <div class="stats" align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img align="center" height=150 src="https://github-readme-stats.vercel.app/api?username=ivonaaa&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Your GitHub Stats" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img align="center" height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivonaaa&layout=compact&theme=github_dark&hide_progress=true&hide_border=true" alt="Your Top Languages" />
+    </a>
+  </div>
+
+
   <!-- Connect with Me -->
   <section>
     <h2>🌐 Connect with Me</h2>
